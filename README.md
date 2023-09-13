@@ -38,7 +38,6 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg"  title="Express" alt="Express" width="40" height="40"/>&nbsp;
 </div>
 
----
 
 ### :mailbox: Мои контакты:
 
@@ -67,8 +66,8 @@
 
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/maria-dobrorodnova-78b813286/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    <a href="https://t.me/marusillda" target="_blank">
+      <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-3521453-2944897.png?f=avif&w=256" width="40" height="40" alt="gmail" />
     </a>
 
     <a href="" target="_blank">
