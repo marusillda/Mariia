@@ -49,10 +49,10 @@
   <div id="badges">
     <a href="https://t.me/marusillda" target="_blank">
       <img src="https://cdn.iconscout.com/icon/free/png-512/free-telegram-1868973-1583137.png?f=avif&w=256" width="40" height="40" alt="gmail" />
-    </a>
+    </a>&nbsp;
       <a href="mailto:maria.dobrorodnova@gmail.com" target="_blank">
       <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-3521453-2944897.png?f=avif&w=256" width="40" height="40" alt="gmail" />
-    </a>
+    </a>&nbsp;
   </div>
 
 
