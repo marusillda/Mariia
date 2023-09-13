@@ -36,7 +36,6 @@
 ### :mailbox: Мои контакты:
  [![Telegram Badge](https://img.shields.io/badge/-marusillda-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/marusillda) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.dobrorodnova@gmail.com)
 
-
 ---
 ### 💻 Codewars:
 
@@ -56,15 +55,15 @@
 </table>
 
 ---
-
+    <!--
 ### 🤝 Социальные сети:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/maria-dobrorodnova-78b813286/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <!--
+
     <a href="" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a> -->
-  </div>
+    </a> 
+  </div>-->
