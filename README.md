@@ -41,7 +41,15 @@
 
 ### :mailbox: Мои контакты:
 
- [![Telegram Badge](https://img.shields.io/badge/-marusillda-blue?style=flat&logo=Telegram&logoColor=white&width=60)](https://t.me/marusillda) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.dobrorodnova@gmail.com)
+  <div id="badges">
+    <a href="https://t.me/marusillda" target="_blank">
+      <img src="https://cdn.iconscout.com/icon/free/png-512/free-telegram-1868973-1583137.png?f=avif&w=256" width="40" height="40" alt="gmail" />
+    </a>
+      <a href="mailto:maria.dobrorodnova@gmail.com" target="_blank">
+      <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-3521453-2944897.png?f=avif&w=256" width="40" height="40" alt="gmail" />
+    </a>
+  </div>
+
 
 ---
 ### 💻 Codewars:
@@ -62,15 +70,9 @@
 </table>
 
 ---
-    <!--
 
 
-  <div id="badges">
-    <a href="https://t.me/marusillda" target="_blank">
-      <img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-3521453-2944897.png?f=avif&w=256" width="40" height="40" alt="gmail" />
-    </a>
 
-    <a href="" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a> 
-  </div>
+
+
+
