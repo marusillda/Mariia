@@ -5,6 +5,7 @@
  <h1 align="center"> Привет! 👋 Меня зовут Мария! </h1>
 
 ---
+
  ### :memo: Обо мне:
 
 :woman_technologist: Я - начинающий Frontend-разработчик из Краснодара, готова к переезду в Москву;<br>
@@ -12,9 +13,11 @@
 :computer:Каждый день стараюсь совершенствовать свои навыки, получать новые знания. Стремлюсь писать понятный код, который будет легко поддерживать и масштабировать;<br>
 :heavy_check_mark: Готова к сотрудничеству над интересными проектами;<br>
 
+
 <p align="center">
  <img width="600" src="images/github-snake.svg" alt="snake"/>
 </p>
+
 
 ### :hammer_and_wrench: Навыки и инструменты:
 <div>
@@ -33,9 +36,10 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg"  title="Express" alt="Express" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
 ### :mailbox: Мои контакты:
- [![Telegram Badge](https://img.shields.io/badge/-marusillda-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/marusillda) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.dobrorodnova@gmail.com)
+ [![Telegram Badge](https://img.shields.io/badge/-marusillda-blue?style=flat&logo=Telegram&logoColor=white&width=40px)](https://t.me/marusillda) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.dobrorodnova@gmail.com)
 
 ---
 ### 💻 Codewars:
@@ -57,7 +61,7 @@
 
 ---
     <!--
-### 🤝 Социальные сети:
+
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/maria-dobrorodnova-78b813286/" target="_blank">
@@ -67,4 +71,4 @@
     <a href="" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a> 
-  </div>-->
+  </div>
