@@ -41,7 +41,7 @@
 ---
 
 ### :mailbox: Мои контакты:
- [![Telegram Badge](https://img.shields.io/badge/-marusillda-blue?style=flat&logo=Telegram&logoColor=white&width=60px)](https://t.me/marusillda) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.dobrorodnova@gmail.com)
+ [![Telegram Badge](https://img.shields.io/badge/-marusillda-blue?style=flat&logo=Telegram&logoColor=white&width=60)](https://t.me/marusillda) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.dobrorodnova@gmail.com)
 
 ---
 ### 💻 Codewars:
