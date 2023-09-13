@@ -14,9 +14,11 @@
 :heavy_check_mark: Готова к сотрудничеству над интересными проектами;<br>
 
 
+
 <p align="center">
  <img width="600" src="images/github-snake.svg" alt="snake"/>
 </p>
+
 
 
 ### :hammer_and_wrench: Навыки и инструменты:
@@ -39,7 +41,7 @@
 ---
 
 ### :mailbox: Мои контакты:
- [![Telegram Badge](https://img.shields.io/badge/-marusillda-blue?style=flat&logo=Telegram&logoColor=white&width=40px)](https://t.me/marusillda) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.dobrorodnova@gmail.com)
+ [![Telegram Badge](https://img.shields.io/badge/-marusillda-blue?style=flat&logo=Telegram&logoColor=white&width=60px)](https://t.me/marusillda) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.dobrorodnova@gmail.com)
 
 ---
 ### 💻 Codewars:
