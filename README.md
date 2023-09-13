@@ -19,7 +19,7 @@
  <img width="600" src="images/github-snake.svg" alt="snake"/>
 </p>
 
--
+--
 
 
 ### :hammer_and_wrench: Навыки и инструменты:
@@ -40,7 +40,7 @@
 </div>
 
 
--
+--
 
 ### :mailbox: Мои контакты:
 
