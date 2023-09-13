@@ -4,11 +4,7 @@
 </div>
  <h1 align="center"> Привет! 👋 Меня зовут Мария! </h1>
 
-:mailbox: Со мной можно связаться: [![Telegram Badge](https://img.shields.io/badge/-marusillda-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/marusillda) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.dobrorodnova@gmail.com)
-
----
-
-### :memo: Обо мне:
+ ### :memo: Обо мне:
 
 :woman_technologist: Я - начинающий Frontend-разработчик из Краснодара, готова к переезду в Москву;<br>
 :books: Прошла курс профессиональной переподготовки "Web-разработчик" от Яндекс Практикума;<br>
@@ -18,10 +14,6 @@
 <p align="center">
  <img width="600" src="images/github-snake.svg" alt="snake"/>
 </p>
-
- <!--Мой путь в IT начался c курсов по фронтенд-разработке в HTML-Academy в 2022 году, когда я жила с семьей в Нью-Йорке без возможности там работать. Когда я поняла, что мне нравится верстать функциональные и интерактивные интерфейсы, то решила сменить профессию и прошла курс профессиональной переподготовки в Яндекс Практикум на факультете Веб-разработки. Обучение длилось с октября 2022 года по август 2023 года. В настоящий момент дипломный проект позади, и я нахожусь в поисках работы, параллельно изучая новые аспекты веб-разработки и занимаясь PET-проектами.-->
-
----
 
 ### :hammer_and_wrench: Навыки и инструменты:
 <div>
@@ -39,6 +31,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg"  title="Express" alt="Express" width="40" height="40"/>&nbsp;
 </div>
+
+
+### :mailbox: Мои контакты:
+ [![Telegram Badge](https://img.shields.io/badge/-marusillda-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/marusillda) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maria.dobrorodnova@gmail.com)
+
 
 ---
 ### 💻 Codewars:
