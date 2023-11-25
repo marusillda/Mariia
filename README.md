@@ -62,7 +62,7 @@
 
 ![codewars](https://www.codewars.com/users/marusillda/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub статистика:  
 
 <table>
   <tr>
