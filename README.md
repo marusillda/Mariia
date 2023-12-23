@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="190"/> 
 </div> 
- <h1 align="center"> Привет! 👋 Меня зовут Мария! </h1> ы
+ <h1 align="center"> Привет! 👋 Меня зовут Мария! </h1>
  
 ---  
 
