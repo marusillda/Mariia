@@ -14,7 +14,7 @@
 :heavy_check_mark: Готова к сотрудничеству над интересными проектами;<br>
    
 <p align="center">
- <img width="600" src="images/github-snake.svg" alt="snake"/>
+ <img width="600" src="images/github-snake.svg" alt="snake"/> 
 </p>  
  
 
